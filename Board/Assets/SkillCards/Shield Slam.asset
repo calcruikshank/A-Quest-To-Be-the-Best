@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cbbfb2176a6de9478afa4d06faa72a6, type: 3}
+  m_Name: Shield Slam
+  m_EditorClassIdentifier: 
+  name: Shield Slam
+  description: Deal physical damage equal to your armour
+  cardType: spell
+  artwork: {fileID: 21300000, guid: 2a716e1b49952534da3e0bc61dc0cf2d, type: 3}
+  baseArmour: 0
+  basePhysicalDamage: 0
+  baseFireDamage: 0
+  baseColdDamage: 0
+  baseLightningDamage: 0
+  baseManaCost: 0
+  baseCritChance: 5
+  baseCritMulti: 1.5
+  baseLifeLeech: 0
+  baseDamageOverTime: 0
+  baseNumOfAttacks: 1
+  baseChanceToFreeze: 0
+  baseChanceToShock: 0
+  baseChanceToIgnite: 0
+  advancedMod1: 'Base critical strike chance: 5%'
+  advancedMod2: 'Base critical strike multiplier: 1.5'
+  advancedMod3: 
+  advancedMod4: 
+  advancedMod5: 
+  advancedMod6: 
